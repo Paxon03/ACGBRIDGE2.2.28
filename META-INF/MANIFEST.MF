@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Epic ACG - Epic Fight Compatibility Bridge
+Implementation-Version: 2.2.28
+

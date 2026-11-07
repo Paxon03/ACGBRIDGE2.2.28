@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCN",
+    "  N",
+    "  B"
+  ],
+  "key": {
+    "C": {
+      "item": "epicacg:dragon_shit_crystal"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "epicacg:battle_scythe",
+    "count": 1
+  }
+}

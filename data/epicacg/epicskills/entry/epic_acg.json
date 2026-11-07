@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "skill": "epicacg:sao_single_sword",
+      "ability_points": 0,
+      "position_in_screen": [
+        50,
+        70
+      ],
+      "hidden": false
+    },
+    {
+      "skill": "epicacg:sao_rapier_skill",
+      "ability_points": 0,
+      "position_in_screen": [
+        150,
+        70
+      ],
+      "hidden": false
+    },
+    {
+      "skill": "epicacg:sao_dual_sword_skill",
+      "ability_points": 0,
+      "position_in_screen": [
+        250,
+        70
+      ],
+      "hidden": false
+    }
+  ]
+}

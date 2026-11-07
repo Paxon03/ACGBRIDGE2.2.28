@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  C",
+    " S ",
+    "B  "
+  ],
+  "key": {
+    "C": {
+      "item": "epicacg:dragon_shit_crystal"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "epicacg:slime_spear",
+    "count": 1
+  }
+}

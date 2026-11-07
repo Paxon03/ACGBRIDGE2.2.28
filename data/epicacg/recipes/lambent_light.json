@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " D ",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "epicacg:dragon_shit_crystal"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "epicacg:lambent_light",
+    "count": 1
+  }
+}

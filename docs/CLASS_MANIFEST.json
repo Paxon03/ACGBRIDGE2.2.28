@@ -1,0 +1,155 @@
+{
+  "bridge_version": "2.2.28",
+  "minecraft": "1.20.1",
+  "java_class_version_max": 61,
+  "payloads": [
+    {
+      "target_class": "com.dfdyz.epicacg.EpicACG",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/EpicACG.class",
+      "sha256": "2952104cfa80fb193ca2cc0b21f43134a85a46687456537d4ae72ed6a409e466",
+      "bytecode_major": 61,
+      "bytes": 7408
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.anims.FallAtkStartAnim",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/anims/FallAtkStartAnim.class",
+      "sha256": "7e6890366d65dc384f092b694d6b7b404e62cfaa94385c9412c576e9601e9d7e",
+      "bytecode_major": 61,
+      "bytes": 9066
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.skills.GenShinInternal.GSBowInternal",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/skills/GenShinInternal/GSBowInternal.class",
+      "sha256": "989605032db580e11b727d8294ea9dd4d2860285177c5f2661a64eb8f9a3cff2",
+      "bytecode_major": 61,
+      "bytes": 2595
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.skills.SAO.RapierSpicialAttackSkill",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/skills/SAO/RapierSpicialAttackSkill.class",
+      "sha256": "cf3af1b7ebf14341515b349f145b23d74da717be47e28e34cce0b26db25a7755",
+      "bytecode_major": 61,
+      "bytes": 8614
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.skills.SAO.SingleSwordSASkills",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/skills/SAO/SingleSwordSASkills.class",
+      "sha256": "c705d0d81dff60726c475363abb185a3d4a6980c9e6a080c83fe21894ae28e93",
+      "bytecode_major": 61,
+      "bytes": 9931
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.weapon.GenShinBow",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/weapon/GenShinBow.class",
+      "sha256": "4e5dbf76c78ac361b3456725924a89b002c34f59e31b4ad6b40b4328808f0705",
+      "bytecode_major": 61,
+      "bytes": 3024
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.network.Netmgr",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/network/Netmgr.class",
+      "sha256": "7b526c38fd86f8ee5365d62a2f6c9234d729b75e59c4548f6e57eab0e36bdc28",
+      "bytecode_major": 61,
+      "bytes": 6533
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.MyAnimations",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/MyAnimations.class",
+      "sha256": "e103e776583bab561aa499e07f8259b6db432833fe75d3fae3fe19d0558bcc27",
+      "bytecode_major": 61,
+      "bytes": 54405
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.MySkills",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/MySkills.class",
+      "sha256": "d891c4f9c4f0ad6d5c8c4dcc315a9d753d667874413b25b4cd071c8e6e5f27e5",
+      "bytecode_major": 61,
+      "bytes": 8754
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.Tab",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/Tab.class",
+      "sha256": "9f2a01661901890bea3e9f44af4c55fdc17ae78faf495ec3fae8e87131c0524a",
+      "bytecode_major": 61,
+      "bytes": 15037
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.WeaponTypes$EpicACGWeaponCategories",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/WeaponTypes$EpicACGWeaponCategories.class",
+      "sha256": "21c03b62417cf285c1aaf86ac3f2ce9ff28fa0d333f46373f4d83e31e29c15da",
+      "bytecode_major": 61,
+      "bytes": 1950
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.WeaponTypes",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/WeaponTypes.class",
+      "sha256": "0d607c4e4706e4a8a63e498b4da97d3a3a954b09c55e6f18e446ba1d8b420f96",
+      "bytecode_major": 61,
+      "bytes": 16045
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.efmextra.skills.EpicACGSkillSlot",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/efmextra/skills/EpicACGSkillSlot.class",
+      "sha256": "ec7812bd15a14e255f02739c592e138751640f45bb2b9eea9782c2a9560e4e65",
+      "bytecode_major": 61,
+      "bytes": 2174
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.event.ControllerEvent",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/event/ControllerEvent.class",
+      "sha256": "9926c9bea007f13bb0c24169db352a95714a227b16745260d5ec88220fbd7a56",
+      "bytecode_major": 61,
+      "bytes": 3236
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.KeyMappings",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/KeyMappings.class",
+      "sha256": "d5dc23f63508a277a834d51297889067d6bad8e4fb4ab1ce8cf6674881393383",
+      "bytecode_major": 61,
+      "bytes": 1821
+    },
+    {
+      "target_class": "yesman.epicfight.skill.SkillContainer",
+      "resource": "bridge_payload/classes/yesman/epicfight/skill/SkillContainer.class",
+      "sha256": "4853b591ee40046e2a410b16deeff48288382bb02bb36073cd672dfe97a1e18b",
+      "bytecode_major": 61,
+      "bytes": 18036
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.registry.Items",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/registry/Items.class",
+      "sha256": "ca3b10ebd8af55714220ffc2d1af7044ed74f56db4f144b5b1244dc9a7271231",
+      "bytecode_major": 61,
+      "bytes": 4776
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.world.item.SimpleWeaponItem",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/world/item/SimpleWeaponItem.class",
+      "sha256": "4fe851c646e37294b9a38077316d5870e3fc6e42e0b70f222ff611212f348510",
+      "bytecode_major": 61,
+      "bytes": 895
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.world.item.SpecialWeaponItem",
+      "resource": "bridge_payload/classes/com/dfdyz/epicacg/world/item/SpecialWeaponItem.class",
+      "sha256": "5bdd72662325ab3598708de9d618a65e3372ba9352513c0c33164252d87b325d",
+      "bytecode_major": 61,
+      "bytes": 1590
+    },
+    {
+      "target_class": "net.minecraftforge.event.AddPackFindersEvent",
+      "resource": "bridge_payload/classes/net/minecraftforge/event/AddPackFindersEvent.class",
+      "sha256": "df82df916171cf7f5893b447f0c67dddc565618c9ab89a37d99b54a33de436af",
+      "bytecode_major": 61,
+      "bytes": 62482
+    },
+    {
+      "target_class": "com.dfdyz.epicacg.compat.EpicSkillsCategorySlotTextures",
+      "resource": "bridge_payload/epicskills/com/dfdyz/epicacg/compat/EpicSkillsCategorySlotTextures.class",
+      "sha256": "3e3aa0b0c89e52dcf9b659fc4a998cf1d54c1a755203b87634c0a0cb5d32de50",
+      "bytecode_major": 61,
+      "bytes": 1985,
+      "purpose": "Optional Epic Fight Skill Tree helper; loaded only when Skill Tree is present"
+    }
+  ]
+}
